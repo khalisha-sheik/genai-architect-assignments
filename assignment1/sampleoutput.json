@@ -1,25 +1,32 @@
 {
-  "company_name": "Google",
-  "stock_code": "GOOG, GOOGL",
-  "current_price": 122.11,
-  "price_change_7d": "+1.5%",
-  "price_change_30d": "+3.2%",
-  "fifty_two_week_high": 138.5,
-  "fifty_two_week_low": 95.2,
-  "news_summary": "Google has announced new AI initiatives, reported steady quarterly earnings, and analysts discussed its growth outlook.",
-  "sentiment": "Positive",
-  "confidence_score": 0.85,
-  "people_names": [],
-  "places_names": [],
-  "other_companies_referred": [],
-  "related_industries": [
-    "Artificial Intelligence",
-    "Technology",
-    "Digital Advertising",
-    "Software"
+  'company_name': 'Google',
+  'stock_code': 'GOOGL',
+  'current_price': 398.04,
+  'price_change_7d': 'N/A',
+  'price_change_30d': 'N/A',
+  'fifty_two_week_high': 0.0,
+  'fifty_two_week_low': 0.0,
+  'news_summary': "Google is celebrating its 25th anniversary, reflecting on its rich history and iconic logos. Looking forward, the company is developing 'Aluminium OS' and aims to avoid past mistakes made with Android to ensure its success. In AI, Google will introduce 'AI Overview Searches' that may display content users didn't explicitly ask for. On the Android front, Google has confirmed it will not be implementing a 'Liquid Glass' makeover, which is likely a relief to some users. The company also continues to engage with its community through initiatives like student-created Google doodles.",
+  'sentiment': 'Neutral to Slightly Positive',
+  'confidence_score': 0.85,
+  'people_names': [
+    
   ],
-  "market_implications": "Google’s continued investments in AI strengthen its market leadership and open new revenue opportunities while maintaining operational stability.",
-  "investment_recommendation": "Buy",
-  "recommendation_rationale": "Strong AI initiatives, consistent earnings performance, and positive analyst sentiment indicate long-term growth potential and competitive resilience."
+  'places_names': [
+    
+  ],
+  'other_companies_referred': [
+    
+  ],
+  'related_industries': [
+    'Internet Services',
+    'Artificial Intelligence',
+    'Software Development',
+    'Mobile Operating Systems',
+    'Digital Advertising',
+    'Consumer Electronics'
+  ],
+  'market_implications': "Google's continued investment in new operating systems like Aluminium OS signals a strategic push to diversify or enhance its ecosystem, potentially opening new revenue streams or strengthening its competitive position, though execution risk remains. The introduction of AI Overview searches could significantly alter user interaction with search results, potentially increasing engagement if well-received, or causing user friction if perceived as intrusive. Avoiding the 'Liquid Glass' makeover for Android suggests a responsiveness to user preferences, which can positively impact user retention and brand loyalty. The 25th-anniversary celebration reinforces Google's long-standing market presence and brand strength, which can be a positive for investor confidence.",
+  'investment_recommendation': 'Hold',
+  'recommendation_rationale': "The recent news for Google (GOOGL) presents a mixed but generally stable outlook. The focus on a new OS (Aluminium OS) and advancements in AI search indicate ongoing innovation and strategic development, which are positive long-term drivers. However, the success of Aluminium OS is contingent on avoiding past errors, and the AI Overview feature carries user experience risks. The decision to forgo the 'Liquid Glass' Android makeover is a positive signal of user-centric development. While the 25th anniversary is a significant milestone, none of the news snippets provide immediate strong catalysts for a significant upward or downward price movement. Therefore, a 'Hold' recommendation is appropriate, suggesting investors maintain their current positions while monitoring the execution of these strategic initiatives and user reception to new features."
 }
-
