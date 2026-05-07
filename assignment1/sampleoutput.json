@@ -1,0 +1,25 @@
+{
+  "company_name": "Google",
+  "stock_code": "GOOG, GOOGL",
+  "current_price": 122.11,
+  "price_change_7d": "+1.5%",
+  "price_change_30d": "+3.2%",
+  "fifty_two_week_high": 138.5,
+  "fifty_two_week_low": 95.2,
+  "news_summary": "Google has announced new AI initiatives, reported steady quarterly earnings, and analysts discussed its growth outlook.",
+  "sentiment": "Positive",
+  "confidence_score": 0.85,
+  "people_names": [],
+  "places_names": [],
+  "other_companies_referred": [],
+  "related_industries": [
+    "Artificial Intelligence",
+    "Technology",
+    "Digital Advertising",
+    "Software"
+  ],
+  "market_implications": "Google’s continued investments in AI strengthen its market leadership and open new revenue opportunities while maintaining operational stability.",
+  "investment_recommendation": "Buy",
+  "recommendation_rationale": "Strong AI initiatives, consistent earnings performance, and positive analyst sentiment indicate long-term growth potential and competitive resilience."
+}
+
