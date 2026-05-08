@@ -1,0 +1,101 @@
+================================================================================
+FINAL OUTPUT
+================================================================================
+{
+  "user_query": "I've completed Python Programming for Data Science and enjoy data visualization.",
+  "completed_courses": [
+    "C001"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "course_id": "C016",
+      "title": "Python Programming for Data Science",
+      "similarity_score": 0.45,
+      "rationale": "You've indicated you've already completed 'Python Programming for Data Science.' This course perfectly matches the foundational skills you've mastered, confirming your strong expertise in Python for data analysis and basic visualization. While you've already covered these fundamentals, it underscores the solid base you have for further learning."
+    },
+    {
+      "rank": 2,
+      "course_id": "C014",
+      "title": "Data Visualization with Tableau",
+      "similarity_score": 0.36,
+      "rationale": "Given your enjoyment of data visualization, this course is a perfect next step. It will equip you with an industry-standard tool, Tableau, to create advanced, interactive dashboards and compelling visual stories, complementing your Python plotting skills with a dedicated visualization platform."
+    },
+    {
+      "rank": 3,
+      "course_id": "C017",
+      "title": "R Programming and Statistical Analysis",
+      "similarity_score": 0.34,
+      "rationale": "Expanding your programming toolkit with R, especially its powerful `ggplot2` library, will significantly enhance your data visualization capabilities. R is also excellent for statistical analysis, offering a different perspective and additional tools for data exploration and presentation."
+    },
+    {
+      "rank": 4,
+      "course_id": "C003",
+      "title": "Natural Language Processing Fundamentals",
+      "similarity_score": 0.31,
+      "rationale": "This course offers an exciting opportunity to apply your Python programming skills to the domain of text data. While not directly visualization-focused, NLP projects often involve visualizing textual patterns and insights, diversifying your data science applications."
+    },
+    {
+      "rank": 5,
+      "course_id": "C012",
+      "title": "SQL for Data Analysis",
+      "similarity_score": 0.31,
+      "rationale": "Before visualizing data, it often needs to be extracted and prepared. Mastering SQL is crucial for efficiently querying and manipulating data from databases, a foundational skill that will greatly enhance your ability to source and prepare data for your visualization projects."
+    }
+  ],
+  "total_recommendations": 5,
+  "model_used": "LearningAdvisorV1",
+  "embedding_model": "text-embedding-ada-002"
+}
+/Users/khalisheik/Desktop/Projects/genai-architect-assignments/assignment2/course_recommendation_engine.py:184: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.13/migration/
+  state["final_output"] = result.dict()
+
+================================================================================
+FINAL OUTPUT
+================================================================================
+{
+  "user_query": "I know Azure basics and want to manage containers and build CI/CD pipelines.",
+  "completed_courses": [
+    "C010"
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "course_id": "C008",
+      "title": "DevOps Practices and CI/CD",
+      "similarity_score": 0.47,
+      "rationale": "This course directly addresses your goal of building CI/CD pipelines by covering continuous integration with tools like Jenkins or GitHub Actions, infrastructure-as-code, and container registry integration. It will equip you with the essential DevOps methodologies and practical skills for implementing robust CI/CD workflows, which are crucial for managing containers effectively."
+    },
+    {
+      "rank": 2,
+      "course_id": "C007",
+      "title": "Cloud Computing with Azure",
+      "similarity_score": 0.47,
+      "rationale": "Given your existing Azure basics, this course will deepen your understanding of key Azure services, specifically Azure Kubernetes Service (AKS), which is fundamental for managing containers at scale within the Azure ecosystem. It also covers deploying scalable applications and infrastructure-as-code with ARM templates, providing a strong foundation for building CI/CD pipelines tailored for Azure."
+    },
+    {
+      "rank": 3,
+      "course_id": "C009",
+      "title": "Containerization with Docker and Kubernetes",
+      "similarity_score": 0.45,
+      "rationale": "This course is highly relevant as it focuses entirely on container fundamentals with Docker and advanced orchestration with Kubernetes. Mastering these technologies is essential for your goal of managing containers efficiently. It also touches upon streamlined DevOps workflows, which will complement your CI/CD pipeline building efforts."
+    },
+    {
+      "rank": 4,
+      "course_id": "C025",
+      "title": "MLOps: Productionizing Machine Learning",
+      "similarity_score": 0.36,
+      "rationale": "While primarily focused on Machine Learning operations, this course includes valuable concepts like containerization and CI/CD for ML. The principles of building end-to-end pipelines, automation, and monitoring are transferable and can enhance your general understanding of CI/CD, even if the specific domain is ML."
+    },
+    {
+      "rank": 5,
+      "course_id": "C022",
+      "title": "Internet of Things (IoT) Development",
+      "similarity_score": 0.28,
+      "rationale": "This course focuses on IoT architecture and development, which is not directly aligned with your stated goals of managing containers and building CI/CD pipelines for general software development. While some deployment best practices might overlap, the core content is outside your immediate area of interest."
+    }
+  ],
+  "total_recommendations": 5,
+  "model_used": "AI Learning Advisor",
+  "embedding_model": "N/A"
+}

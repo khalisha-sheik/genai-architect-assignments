@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+chromadb
+pandas
+numpy
+mlflow
+pydantic
+python-dotenv
+sentence-transformers
