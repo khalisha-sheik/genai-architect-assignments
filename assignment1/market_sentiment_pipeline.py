@@ -193,5 +193,5 @@ if __name__ == "__main__":
     with mlflow.start_run(run_name="Google_Analysis"):
         result = pipeline.invoke({"company_name": "Google"})
 
-        print("\n✅ FINAL STRUCTURED OUTPUT:\n")
+        print("\n FINAL STRUCTURED OUTPUT:\n")
         print(result["final_output"])
